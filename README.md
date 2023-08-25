@@ -20,7 +20,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
 #
 #
 <div>
-- <a href="https://github.com/Arth-26">
+ <a href="https://github.com/Arth-26">
     <img src="https://avatars.githubusercontent.com/u/105496083?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
@@ -36,7 +36,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
 #
 
 <div>
--  <a href="https://github.com/mendesczgmt">
+  <a href="https://github.com/mendesczgmt">
     <img src="https://avatars.githubusercontent.com/u/101441186?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
@@ -52,7 +52,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
 #
 
 <div>
--  <a href="https://github.com/BDM-Henrique">
+  <a href="https://github.com/BDM-Henrique">
     <img src="https://avatars.githubusercontent.com/u/111789465?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
@@ -68,7 +68,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
 #
 
 <div>
--  <a href="https://github.com/pablorobertofernando">
+  <a href="https://github.com/pablorobertofernando">
     <img src="https://avatars.githubusercontent.com/u/32016265?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
@@ -84,7 +84,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
 #
 
 <div>
--  <a href="https://github.com/Ranierelp">
+  <a href="https://github.com/Ranierelp">
     <img src="https://avatars.githubusercontent.com/u/118647138?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
