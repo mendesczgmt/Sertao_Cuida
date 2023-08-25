@@ -18,6 +18,7 @@ O Projeto Sertão Cuida se dedica a desenvolver uma solução tecnológica que p
 A equipe responsável pelo desenvolvimento deste projeto é composta por estudantes do curso de Análise e Desenvolvimento de Sistemas da UNIFIP e nosso professor de extensão:
 
 - [Arthur Gomes](https://github.com/Arth-26) ![Foto do Participante](SEM FOTO)
+- #
 - [Arthur Oliveira](https://github.com/arthurgomes1k) ![Foto do Participante](https://avatars.githubusercontent.com/u/101721044?v=4)
 - [Gabryel Mendes](https://github.com/mendesczgmt) ![Foto do Participante](https://avatars.githubusercontent.com/u/101441186?v=4)
 - [Ideão Barreiro](https://github.com/IdeaoBarreiro) ![Foto do Participante](https://avatars.githubusercontent.com/u/111693570?v=4)
