@@ -4,7 +4,7 @@ Bem-vindo ao repositório oficial do Projeto Sertão Cuida desenvolvido pela tur
 
 ## Descrição
 
-O Projeto Sertão Cuida se dedica a desenvolver uma solução tecnológica que possa ser um aliado crucial para os profissionais da saúde. Nossa equipe escolheu abordar o problema da identificação de riscos cardiovasculares. Esta ferramenta permitirá a avaliação mais eficaz e ágil dos pacientes, possibilitando intervenções preventivas e decisões informadas.
+O Projeto Sertão Cuida se dedica a desenvolver uma solução tecnológica que possa ser um aliado crucial para os profissionais da saúde. Nossa equipe escolheu abordar o problema do acompanhamento de pacientes com riscos cardiovasculares. Esta ferramenta permitirá a avaliação mais eficaz e ágil dos pacientes, possibilitando intervenções preventivas e decisões informadas.
 
 
 ## Tecnologias Utilizadas
