@@ -18,27 +18,17 @@ O Projeto Sertão Cuida se dedica a desenvolver uma solução tecnológica que p
 A equipe responsável pelo desenvolvimento deste projeto é composta por estudantes do curso de Análise e Desenvolvimento de Sistemas da UNIFIP e nosso professor de extensão:
 
 - [Arthur Gomes](https://github.com/Arth-26) ![Foto do Participante](SEM FOTO)
-#
-<div style="text-align:center;">
-  <img src="[link-para-a-imagem](https://avatars.githubusercontent.com/u/101721044?v=4)" alt="Arthur Oliveira" width="100" height="100">
-  <p style="color: black;">Arthur Oliveira</p>
-</div>
 - [Arthur Oliveira](https://github.com/arthurgomes1k) ![Foto do Participante](https://avatars.githubusercontent.com/u/101721044?v=4)
-# 
-- [Gabryel Mendes](https://github.com/mendesczgmt) ![Foto do Participante](https://avatars.githubusercontent.com/u/101441186?v=4)
-# 
+- <div style="text-align:center;">
+   <a href="URL-do-link">https://github.com/mendesczgmt</a>
+  !(https://avatars.githubusercontent.com/u/101441186?v=4)
+</div>
 - [Ideão Barreiro](https://github.com/IdeaoBarreiro) ![Foto do Participante](https://avatars.githubusercontent.com/u/111693570?v=4)
-# 
 - [José Henrique](https://github.com/BDM-Henrique) ![Foto do Participante](https://avatars.githubusercontent.com/u/111789465?v=4)
-# 
 - [Lucas Felix](https://github.com/lucasfelixdev) ![Foto do Participante](https://avatars.githubusercontent.com/u/95368707?v=4)
-# 
 - [Pablo Fernando](https://github.com/pablorobertofernando) ![Foto do Participante](https://avatars.githubusercontent.com/u/32016265?v=4)
-# 
 - [Pablo Henrique](https://github.com/PabloHnrq) ![Foto do Participante](https://avatars.githubusercontent.com/u/105835683?v=4)
-# 
 - [Raniere Pereira](https://github.com/Ranierelp) ![Foto do Participante](https://avatars.githubusercontent.com/u/118647138?v=4)
-# 
 - [Vitor Juvino](https://github.com/VitorJuvino) ![Foto do Participante](https://avatars.githubusercontent.com/u/99814359?v=4)
 
 ## Instalação
