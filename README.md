@@ -35,10 +35,10 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
 #
 - <div>
   <a href="https://github.com/lucasfelixdev">
-    <img src="https://avatars.githubusercontent.com/u/95368707?v=4" alt="Foto do Participante" width="100" height="100">
+    <img src="https://avatars.githubusercontent.com/u/95368707?v=4" alt="Foto do Participante" width="100" height="100" style="border-radius: 50%;>
   </a>
   <br>
-  <a href="https://github.com/lucasfelixdev" style="color: blue; font-size: 25px;">Lucas Felix</a>
+  <a href="https://github.com/lucasfelixdev" style="color: blue; font-size: 25px; b">Lucas Felix</a>
 </div>
 
 #
