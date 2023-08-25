@@ -20,13 +20,13 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
 #
 #
 <div>
--  <a href="https://github.com/Arth-26">
+- <a href="https://github.com/Arth-26">
     <img src="https://avatars.githubusercontent.com/u/105496083?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
   <a href="https://github.com/Arth-26" style="color: blue; font-size: 25px; b">Arthur Gomes</a>
 
-  -  <a href="https://github.com/arthurgomes1k">
+  - <a href="https://github.com/arthurgomes1k">
       <img src="https://avatars.githubusercontent.com/u/101721044?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
