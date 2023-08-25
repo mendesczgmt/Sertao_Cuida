@@ -17,43 +17,84 @@ O Projeto Sertão Cuida se dedica a desenvolver uma solução tecnológica que p
 
 A equipe responsável pelo desenvolvimento deste projeto é composta por estudantes do curso de Análise e Desenvolvimento de Sistemas da UNIFIP e nosso professor de extensão:
 
-- [Arthur Gomes](https://github.com/Arth-26)
-![Foto do Participante]
-(SEM FOTO)
 #
-- [Arthur Oliveira](https://github.com/arthurgomes1k)
-![Foto do Participante](https://avatars.githubusercontent.com/u/101721044?v=4)
-#
-- [Gabryel Mendes](https://github.com/mendesczgmt)
-![Foto do Participante](https://avatars.githubusercontent.com/u/101441186?v=4)
-#
-- [Ideão Barreiro](https://github.com/IdeaoBarreiro)
-![Foto do Participante](https://avatars.githubusercontent.com/u/111693570?v=4)
-#
-- [José Henrique](https://github.com/BDM-Henrique)
-![Foto do Participante](https://avatars.githubusercontent.com/u/111789465?v=4)
-#
-- <div>
-  <a href="https://github.com/lucasfelixdev">
-    <img src="https://avatars.githubusercontent.com/u/95368707?v=4" alt="Foto do Participante" width="100" height="100" style="border-radius: 70%;>
+<div>
+-  <a href="https://github.com/Arth-26">
+    <img src="https://avatars.githubusercontent.com/u/105496083?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
-  <a href="https://github.com/lucasfelixdev" style="color: blue; font-size: 25px; b">Lucas Felix</a>
+  <a href="https://github.com/Arth-26" style="color: blue; font-size: 25px; b">Arthur Gomes</a>
+
+  -  <a href="https://github.com/arthurgomes1k">
+    <img src="https://avatars.githubusercontent.com/u/101721044?v=4" alt="Foto do Participante" width="100" height="100";>
+  </a>
+  <br>
+  <a href="https://github.com/arthurgomes1k" style="color: blue; font-size: 25px; b">Arthur Oliveira</a>
 </div>
 
 #
-- [Pablo Fernando](https://github.com/pablorobertofernando)
-![Foto do Participante](https://avatars.githubusercontent.com/u/32016265?v=4)
-#
-- [Pablo Henrique](https://github.com/PabloHnrq)
-![Foto do Participante](https://avatars.githubusercontent.com/u/105835683?v=4)
-#
-- [Raniere Pereira](https://github.com/Ranierelp)
-![Foto do Participante](https://avatars.githubusercontent.com/u/118647138?v=4)
-#
-- [Vitor Juvino](https://github.com/VitorJuvino)
-![Foto do Participante](https://avatars.githubusercontent.com/u/99814359?v=4)
 
+<div>
+-  <a href="https://github.com/mendesczgmt">
+    <img src="https://avatars.githubusercontent.com/u/101441186?v=4" alt="Foto do Participante" width="100" height="100";>
+  </a>
+  <br>
+  <a href="https://github.com/mendesczgmt" style="color: blue; font-size: 25px; b">Gabryel Mendes</a>
+
+  -  <a href="https://github.com/IdeaoBarreiro">
+    <img src="https://avatars.githubusercontent.com/u/111693570?v=4" alt="Foto do Participante" width="100" height="100";>
+  </a>
+  <br>
+  <a href="https://github.com/IdeaoBarreiro" style="color: blue; font-size: 25px; b">Ideão Barreiro</a>
+</div>
+
+#
+
+<div>
+-  <a href="https://github.com/BDM-Henrique">
+    <img src="https://avatars.githubusercontent.com/u/111789465?v=4" alt="Foto do Participante" width="100" height="100";>
+  </a>
+  <br>
+  <a href="https://github.com/BDM-Henrique" style="color: blue; font-size: 25px; b">José Henrique</a>
+
+  -  <a href="https://github.com/lucasfelixdev">
+    <img src="https://avatars.githubusercontent.com/u/95368707?v=4" alt="Foto do Participante" width="100" height="100";>
+  </a>
+  <br>
+  <a href="https://github.com/lucasfelixdev" style="color: blue; font-size: 25px; b">Lucas Félix</a>
+</div>
+
+#
+
+<div>
+-  <a href="https://github.com/pablorobertofernando">
+    <img src="https://avatars.githubusercontent.com/u/32016265?v=4" alt="Foto do Participante" width="100" height="100";>
+  </a>
+  <br>
+  <a href="https://github.com/pablorobertofernando" style="color: blue; font-size: 25px; b">Pablo fernando</a>
+
+  -  <a href="https://github.com/PabloHnrq">
+    <img src="https://avatars.githubusercontent.com/u/105835683?v=4" alt="Foto do Participante" width="100" height="100";>
+  </a>
+  <br>
+  <a href="https://github.com/PabloHnrq" style="color: blue; font-size: 25px; b">Pablo Henrique</a>
+</div>
+
+#
+
+<div>
+-  <a href="https://github.com/Ranierelp">
+    <img src="https://avatars.githubusercontent.com/u/118647138?v=4" alt="Foto do Participante" width="100" height="100";>
+  </a>
+  <br>
+  <a href="https://github.com/Ranierelp" style="color: blue; font-size: 25px; b">Raniere Pereira</a>
+
+  -  <a href="https://github.com/VitorJuvino">
+    <img src="https://avatars.githubusercontent.com/u/99814359?v=4" alt="Foto do Participante" width="100" height="100";>
+  </a>
+  <br>
+  <a href="https://github.com/VitorJuvino" style="color: blue; font-size: 25px; b">Vitor Juvino</a>
+</div>
 ## Instalação
 
 ### Pré-requisitos
