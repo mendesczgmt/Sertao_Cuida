@@ -36,7 +36,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
 
 #
 
-<div>
+<div style="display:flex;>
   <a href="https://github.com/mendesczgmt">
     <img src="https://avatars.githubusercontent.com/u/101441186?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
