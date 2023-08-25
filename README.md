@@ -27,14 +27,14 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
    <br>
    <a href="https://github.com/Arth-26" style="color: blue; font-size: 25px; b">Arthur Gomes</a>
 </div>
-
+<div> 
  <a href="https://github.com/arthurgomes1k">
       <img src="https://avatars.githubusercontent.com/u/101721044?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
   <a href="https://github.com/arthurgomes1k" style="color: blue; font-size: 25px; b">Arthur Oliveira</a>
 </div>
-
+</div>
 #
 
 <div>
@@ -43,7 +43,8 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
   </a>
   <br>
   <a href="https://github.com/mendesczgmt" style="color: blue; font-size: 25px; b">Gabryel Mendes</a>
-
+</div>
+<div>
  <a href="https://github.com/IdeaoBarreiro">
       <img src="https://avatars.githubusercontent.com/u/111693570?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
@@ -59,7 +60,8 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
   </a>
   <br>
   <a href="https://github.com/BDM-Henrique" style="color: blue; font-size: 25px; b">José Henrique</a>
-
+</div>
+<div>
   <a href="https://github.com/lucasfelixdev">
       <img src="https://avatars.githubusercontent.com/u/95368707?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
@@ -75,7 +77,8 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
   </a>
   <br>
   <a href="https://github.com/pablorobertofernando" style="color: blue; font-size: 25px; b">Pablo fernando</a>
-
+</div>
+<div>
  <a href="https://github.com/PabloHnrq">
        <img src="https://avatars.githubusercontent.com/u/105835683?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
