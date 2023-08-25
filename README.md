@@ -75,7 +75,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
   <a href="https://github.com/pablorobertofernando" style="color: blue; font-size: 25px; b">Pablo fernando</a>
 
   -  <a href="https://github.com/PabloHnrq">
-    <img src="https://avatars.githubusercontent.com/u/105835683?v=4" alt="Foto do Participante" width="100" height="100";>
+       <img src="https://avatars.githubusercontent.com/u/105835683?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
   <a href="https://github.com/PabloHnrq" style="color: blue; font-size: 25px; b">Pablo Henrique</a>
@@ -91,7 +91,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
   <a href="https://github.com/Ranierelp" style="color: blue; font-size: 25px; b">Raniere Pereira</a>
 
   -  <a href="https://github.com/VitorJuvino">
-    <img src="https://avatars.githubusercontent.com/u/99814359?v=4" alt="Foto do Participante" width="100" height="100";>
+      <img src="https://avatars.githubusercontent.com/u/99814359?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
   <a href="https://github.com/VitorJuvino" style="color: blue; font-size: 25px; b">Vitor Juvino</a>
