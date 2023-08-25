@@ -20,8 +20,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
 - [Arthur Gomes](https://github.com/Arth-26) ![Foto do Participante](SEM FOTO)
 - [Arthur Oliveira](https://github.com/arthurgomes1k) ![Foto do Participante](https://avatars.githubusercontent.com/u/101721044?v=4)
 - <div style="text-align:center;">
-   <a href="URL-do-link">https://github.com/mendesczgmt</a>
-  !(https://avatars.githubusercontent.com/u/101441186?v=4)
+      - [Gabryel Mendes](https://github.com/mendesczgmt) ![Foto do Participante](https://avatars.githubusercontent.com/u/101441186?v=4)
 </div>
 - [Ideão Barreiro](https://github.com/IdeaoBarreiro) ![Foto do Participante](https://avatars.githubusercontent.com/u/111693570?v=4)
 - [José Henrique](https://github.com/BDM-Henrique) ![Foto do Participante](https://avatars.githubusercontent.com/u/111789465?v=4)
