@@ -93,13 +93,16 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
   </a>
   <br>
   <a href="https://github.com/Ranierelp" style="color: blue; font-size: 25px; b">Raniere Pereira</a>
+</div>
 
+<div>
  <a href="https://github.com/VitorJuvino">
       <img src="https://avatars.githubusercontent.com/u/99814359?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
   <a href="https://github.com/VitorJuvino" style="color: blue; font-size: 25px; b">Vitor Juvino</a>
 </div>
+
 ## Instalação
 
 ### Pré-requisitos
