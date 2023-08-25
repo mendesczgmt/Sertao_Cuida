@@ -33,7 +33,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
 - [José Henrique](https://github.com/BDM-Henrique)
 ![Foto do Participante](https://avatars.githubusercontent.com/u/111789465?v=4)
 #
-- <div align="center">
+- <div>
   <a href="https://github.com/lucasfelixdev">
     <img src="https://avatars.githubusercontent.com/u/95368707?v=4" alt="Foto do Participante" width="100" height="100">
   </a>
