@@ -26,7 +26,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
   <br>
   <a href="https://github.com/Arth-26" style="color: blue; font-size: 25px; b">Arthur Gomes</a>
 
-  - <a href="https://github.com/arthurgomes1k">
+ <a href="https://github.com/arthurgomes1k">
       <img src="https://avatars.githubusercontent.com/u/101721044?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
@@ -42,7 +42,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
   <br>
   <a href="https://github.com/mendesczgmt" style="color: blue; font-size: 25px; b">Gabryel Mendes</a>
 
-  -  <a href="https://github.com/IdeaoBarreiro">
+ <a href="https://github.com/IdeaoBarreiro">
       <img src="https://avatars.githubusercontent.com/u/111693570?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
@@ -58,7 +58,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
   <br>
   <a href="https://github.com/BDM-Henrique" style="color: blue; font-size: 25px; b">José Henrique</a>
 
-  -  <a href="https://github.com/lucasfelixdev">
+  <a href="https://github.com/lucasfelixdev">
       <img src="https://avatars.githubusercontent.com/u/95368707?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
@@ -74,7 +74,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
   <br>
   <a href="https://github.com/pablorobertofernando" style="color: blue; font-size: 25px; b">Pablo fernando</a>
 
-  -  <a href="https://github.com/PabloHnrq">
+ <a href="https://github.com/PabloHnrq">
        <img src="https://avatars.githubusercontent.com/u/105835683?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
@@ -90,7 +90,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
   <br>
   <a href="https://github.com/Ranierelp" style="color: blue; font-size: 25px; b">Raniere Pereira</a>
 
-  -  <a href="https://github.com/VitorJuvino">
+ <a href="https://github.com/VitorJuvino">
       <img src="https://avatars.githubusercontent.com/u/99814359?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
