@@ -1,4 +1,4 @@
-# Projeto P4 - UNIFIP ADS
+  # Projeto P4 - UNIFIP ADS
 
 Bem-vindo ao repositório oficial do Projeto Sertão Cuidado desenvolvido pela turma do quarto periodo de Análise e Desenvolvimento de Sistemas (ADS) da UNIFIP. Este projeto envolve o desenvolvimento de um aplicativo mobile usando Flutter, bem como a criação de uma aplicação web com o front-end em Vue.js e o back-end utilizando Spring Framework.
 
@@ -83,7 +83,7 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
     <tr>
       <td>
         <a href="https://github.com/pablorobertofernando">
-          <img src="https://avatars.githubusercontent.com/u/105835683?v=4" alt="Foto do Participante" width="100" height="100";>
+          <img src="https://avatars.githubusercontent.com/u/32016265?v=4" alt="Foto do Participante" width="100" height="100";>
         </a>
         <br>
         <a href="https://github.com/pablorobertofernando" style="color: blue; font-size: 25px; b">Pablo Fernando</a>
