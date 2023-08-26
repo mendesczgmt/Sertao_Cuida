@@ -17,9 +17,7 @@ O Projeto Sertão Cuidado se dedica a desenvolver uma solução tecnológica que
 ## Equipe
 
 A equipe responsável pelo desenvolvimento deste projeto é composta por estudantes do curso de Análise e Desenvolvimento de Sistemas da UNIFIP e nosso professor de extensão:
-#
-  #
- <div style="display: flex;"> 
+<div style="display: flex;"> 
  <div>
   <table>
     <tr>
@@ -41,20 +39,6 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
   </table>
 #
 
-<div style="display:flex;>
-  <a href="https://github.com/mendesczgmt">
-    <img src="https://avatars.githubusercontent.com/u/101441186?v=4" alt="Foto do Participante" width="100" height="100";>
-  </a>
-  <br>
-  <a href="https://github.com/mendesczgmt" style="color: blue; font-size: 25px; b">Gabryel Mendes</a>
-</div>
-<div>
- <a href="https://github.com/IdeaoBarreiro">
-      <img src="https://avatars.githubusercontent.com/u/111693570?v=4" alt="Foto do Participante" width="100" height="100";>
-  </a>
-  <br>
-  <a href="https://github.com/IdeaoBarreiro" style="color: blue; font-size: 25px; b">Ideão Barreiro</a>
-</div>
 
 #
 
