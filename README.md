@@ -16,7 +16,9 @@ O Projeto Sertão Cuidado se dedica a desenvolver uma solução tecnológica que
 
 ## Equipe
 
-<table>
+A equipe responsável pelo desenvolvimento deste projeto é composta por estudantes do curso de Análise e Desenvolvimento de Sistemas da UNIFIP e nosso professor de extensão:
+#
+  <table>
     <tr>
       <td>
         <a href="https://github.com/Arth-26">
@@ -35,7 +37,6 @@ O Projeto Sertão Cuidado se dedica a desenvolver uma solução tecnológica que
     </tr>
   </table>
   
-#
 #
   <table>
     <tr>
@@ -58,56 +59,65 @@ O Projeto Sertão Cuidado se dedica a desenvolver uma solução tecnológica que
 
 #
 
-<div>
-  <a href="https://github.com/BDM-Henrique">
-    <img src="https://avatars.githubusercontent.com/u/111789465?v=4" alt="Foto do Participante" width="100" height="100";>
-  </a>
-  <br>
-  <a href="https://github.com/BDM-Henrique" style="color: blue; font-size: 25px; b">José Henrique</a>
-</div>
-<div>
-  <a href="https://github.com/lucasfelixdev">
-      <img src="https://avatars.githubusercontent.com/u/95368707?v=4" alt="Foto do Participante" width="100" height="100";>
-  </a>
-  <br>
-  <a href="https://github.com/lucasfelixdev" style="color: blue; font-size: 25px; b">Lucas Félix</a>
-</div>
+<table>
+    <tr>
+      <td>
+        <a href="https://github.com/BDM-Henrique">
+          <img src="https://avatars.githubusercontent.com/u/111789465?v=4" alt="Foto do Participante" width="100" height="100";>
+        </a>
+        <br>
+        <a href="https://github.com/BDM-Henrique" style="color: blue; font-size: 25px; b">José Henrique</a>
+      </td>
+      <td>
+        <a href="https://github.com/lucasfelixdev">
+              <img src="https://avatars.githubusercontent.com/u/95368707?v=4" alt="Foto do Participante" width="100" height="100";>
+          </a> 
+          <br>
+          <a href="https://github.com/lucasfelixdev" style="color: blue; font-size: 25px; b">Lucas Félix</a>
+      <td>
+    </tr>
+  </table>
 
-#th="100" height="100";>
-  </a>
-  <br>
-  <a href="https://github.com/pablorobertofernando" style="color: blue; font-size: 25px; b">Pablo fernando</a>
-</div>
-<div>
- <a href="https://github.com/PabloHnrq">
-       <img src="https://avatars.githubusercontent.com/u/105835683?v=4" alt="Foto do Participante" width="100" height="100";>
-  </a>
-  <br>
-  <a href="https://github.com/PabloHnrq" style="color: blue; font-size: 25px; b">Pablo Henrique</a>
-</div>
+#
+<table>
+    <tr>
+      <td>
+        <a href="https://github.com/pablorobertofernando">
+          <img src="https://avatars.githubusercontent.com/u/105835683?v=4" alt="Foto do Participante" width="100" height="100";>
+        </a>
+        <br>
+        <a href="https://github.com/pablorobertofernando" style="color: blue; font-size: 25px; b">Pablo Fernando</a>
+      </td>
+      <td>
+        <a href="https://github.com/PabloHnrq">
+              <img src="https://avatars.githubusercontent.com/u/105835683?v=4" alt="Foto do Participante" width="100" height="100";>
+          </a> 
+          <br>
+          <a href="https://github.com/PabloHnrq" style="color: blue; font-size: 25px; b">Pablo Henrique</a>
+      <td>
+    </tr>
+  </table>
 
 #
 
-<div>
-  <a href="https://github.com/Ranierelp">
-    <img src="https://avatars.githubusercontent.com/u/118647138?v=4" alt="Foto do Participante" width="100" height="100";>
-  </a>
-  <br>
-  <a href="https://github.com/Ranierelp" style="color: blue; font-size: 25px; b">Raniere Pereira</a>
-</div>
-
-<div>
- <a href="https://github.com/VitorJuvino">
-      <img src="https://avatars.githubusercontent.com/u/99814359?v=4" alt="Foto do Participante" width="100" height="100";>
-  </a>
-  <br>
-  <a href="https://github.com/VitorJuvino" style="color: blue; font-size: 25px; b">Vitor Juvino</a>
-</div>
-
-<div>
-  <a href="https://github.com/pablorobertofernando">
-    <img src="https://avatars.githubusercontent.com/u/32016265?v=4" alt="Foto do Participante" wid
-
+<table>
+    <tr>
+      <td>
+        <a href="https://github.com/Ranierelp">
+          <img src="https://avatars.githubusercontent.com/u/118647138?v=4" alt="Foto do Participante" width="100" height="100";>
+        </a>
+        <br>
+        <a href="https://github.com/Ranierelp" style="color: blue; font-size: 25px; b">Raniere Pereira</a>
+      </td>
+      <td>
+        <a href="https://github.com/VitorJuvino">
+              <img src="https://avatars.githubusercontent.com/u/99814359?v=4" alt="Foto do Participante" width="100" height="100";>
+          </a> 
+          <br>
+          <a href="https://github.com/VitorJuvino" style="color: blue; font-size: 25px; b">Vitor Juvino</a>
+      <td>
+    </tr>
+  </table>
 
 ## Instalação
 
