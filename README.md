@@ -1,10 +1,10 @@
 # Projeto P4 - UNIFIP ADS
 
-Bem-vindo ao repositório oficial do Projeto Sertão Cuida desenvolvido pela turma do quarto periodo de Análise e Desenvolvimento de Sistemas (ADS) da UNIFIP. Este projeto envolve o desenvolvimento de um aplicativo mobile usando Flutter, bem como a criação de uma aplicação web com o front-end em Vue.js e o back-end utilizando Spring Framework.
+Bem-vindo ao repositório oficial do Projeto Sertão Cuidado desenvolvido pela turma do quarto periodo de Análise e Desenvolvimento de Sistemas (ADS) da UNIFIP. Este projeto envolve o desenvolvimento de um aplicativo mobile usando Flutter, bem como a criação de uma aplicação web com o front-end em Vue.js e o back-end utilizando Spring Framework.
 
 ## Descrição
 
-O Projeto Sertão Cuida se dedica a desenvolver uma solução tecnológica que possa ser um aliado crucial para os profissionais da saúde. Nossa equipe escolheu abordar o problema do acompanhamento de pacientes com riscos cardiovasculares. Esta ferramenta permitirá a avaliação mais eficaz e ágil dos pacientes, possibilitando intervenções preventivas e decisões informadas.
+O Projeto Sertão Cuidado se dedica a desenvolver uma solução tecnológica que possa ser um aliado crucial para os profissionais da saúde. Nossa equipe escolheu abordar o problema do acompanhamento de pacientes com riscos cardiovasculares. Esta ferramenta permitirá a avaliação mais eficaz e ágil dos pacientes, possibilitando intervenções preventivas e decisões informadas.
 
 
 ## Tecnologias Utilizadas
@@ -12,14 +12,15 @@ O Projeto Sertão Cuida se dedica a desenvolver uma solução tecnológica que p
 - **Mobile:** Flutter
 - **Web Front-End:** Vue.js
 - **Back-End:** Spring Framework
+- **SGBD´s:** Postgresql
 
 ## Equipe
 
 A equipe responsável pelo desenvolvimento deste projeto é composta por estudantes do curso de Análise e Desenvolvimento de Sistemas da UNIFIP e nosso professor de extensão:
 #
-<div style="display:flex;"> 
+ <div style="display:flex;"> 
  <div>
-  <a href="https://github.com/Arth-26">
+  | <a href="https://github.com/Arth-26">
      <img src="https://avatars.githubusercontent.com/u/105496083?v=4" alt="Foto do Participante" width="100" height="100";>
    </a>
    <br>
@@ -28,11 +29,11 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
 <div> 
  <a href="https://github.com/arthurgomes1k">
       <img src="https://avatars.githubusercontent.com/u/101721044?v=4" alt="Foto do Participante" width="100" height="100";>
-  </a>
+  </a> 
   <br>
   <a href="https://github.com/arthurgomes1k" style="color: blue; font-size: 25px; b">Arthur Oliveira</a>
 </div>
-</div>
+</div> |
 
 #
 
