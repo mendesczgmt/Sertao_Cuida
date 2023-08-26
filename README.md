@@ -18,6 +18,9 @@ O Projeto Sertão Cuidado se dedica a desenvolver uma solução tecnológica que
 
 A equipe responsável pelo desenvolvimento deste projeto é composta por estudantes do curso de Análise e Desenvolvimento de Sistemas da UNIFIP e nosso professor de extensão:
 #
+  #
+ <div style="display: flex;"> 
+ <div>
   <table>
     <tr>
       <td>
@@ -36,42 +39,39 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
       <td>
     </tr>
   </table>
-  #
-  
-    <table>
-    <tr>
-      <td>
-        <a href="https://github.com/mendesczgmt">
-          <img src="https://avatars.githubusercontent.com/u/101441186?v=4" alt="Foto do Participante" width="100" height="100";>
-        </a>
-        <br>
-        <a href="https://github.com/mendesczgmt) style="color: blue; font-size: 25px; b">Gabryel Mendes</a>
-      </td>
-      <td>
-        <a href="https://github.com/IdeaoBarreiro">
-              <img src="https://avatars.githubusercontent.com/u/111693570?v=4" alt="Foto do Participante" width="100" height="100";>
-          </a> 
-          <br>
-          <a href="https://github.com/IdeaoBarreiro" style="color: blue; font-size: 25px; b">Arthur Oliveira</a>
-      <td>
-    </tr>
-  </table>
+#
+
+<div style="display:flex;>
+  <a href="https://github.com/mendesczgmt">
+    <img src="https://avatars.githubusercontent.com/u/101441186?v=4" alt="Foto do Participante" width="100" height="100";>
+  </a>
+  <br>
+  <a href="https://github.com/mendesczgmt" style="color: blue; font-size: 25px; b">Gabryel Mendes</a>
+</div>
+<div>
+ <a href="https://github.com/IdeaoBarreiro">
+      <img src="https://avatars.githubusercontent.com/u/111693570?v=4" alt="Foto do Participante" width="100" height="100";>
+  </a>
+  <br>
+  <a href="https://github.com/IdeaoBarreiro" style="color: blue; font-size: 25px; b">Ideão Barreiro</a>
+</div>
 
 #
 
-
+<div>
   <a href="https://github.com/BDM-Henrique">
     <img src="https://avatars.githubusercontent.com/u/111789465?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
   <a href="https://github.com/BDM-Henrique" style="color: blue; font-size: 25px; b">José Henrique</a>
-
+</div>
+<div>
   <a href="https://github.com/lucasfelixdev">
       <img src="https://avatars.githubusercontent.com/u/95368707?v=4" alt="Foto do Participante" width="100" height="100";>
   </a>
   <br>
   <a href="https://github.com/lucasfelixdev" style="color: blue; font-size: 25px; b">Lucas Félix</a>
-
+</div>
 
 #
 
