@@ -18,7 +18,7 @@ O Projeto Sertão Cuidado se dedica a desenvolver uma solução tecnológica que
 
 A equipe responsável pelo desenvolvimento deste projeto é composta por estudantes do curso de Análise e Desenvolvimento de Sistemas da UNIFIP e nosso professor de extensão:
 #
- <div style="display:flex;"> 
+ <div style="style="display: inline-block; width: 50%;""> 
  <div>
    <a href="https://github.com/Arth-26">
      <img src="https://avatars.githubusercontent.com/u/105496083?v=4" alt="Foto do Participante" width="100" height="100";>
