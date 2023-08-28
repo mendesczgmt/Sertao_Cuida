@@ -119,6 +119,27 @@ A equipe responsável pelo desenvolvimento deste projeto é composta por estudan
     </tr>
   </table>
 
+  #
+
+<table>
+    <tr>
+      <td>
+        <a href="https://github.com/MatheusVIRGOLINO">
+          <img src="https://avatars.githubusercontent.com/u/111986976?v=4" alt="Foto do Participante" width="100" height="100";>
+        </a>
+        <br>
+        <a href="https://github.com/MatheusVIRGOLINO" style="color: blue; font-size: 25px; b">Matheus Virgolino</a>
+      </td>
+      <td>
+        <a href="https://github.com/Anthony11722">
+              <img src="https://avatars.githubusercontent.com/u/111543247?v=4" alt="Foto do Participante" width="100" height="100";>
+          </a> 
+          <br>
+          <a href="https://github.com/Anthony11722" style="color: blue; font-size: 25px; b">Antonio Lucas</a>
+      <td>
+    </tr>
+  </table>
+
 ## Instalação
 
 ### Pré-requisitos
