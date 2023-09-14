@@ -8,8 +8,8 @@ import lombok.NoArgsConstructor;
 import serdaoCuidado.SertaoCuidado.Endereco.Endereco;
 import serdaoCuidado.SertaoCuidado.QuadroClinico.QuadroClinico;
 
-@Table(name = "pacientes")
-@Entity(name = "Paciente")
+@Table(name = "paciente")
+@Entity(name = "Pacientes")
 @Getter
 @NoArgsConstructor
 @AllArgsConstructor

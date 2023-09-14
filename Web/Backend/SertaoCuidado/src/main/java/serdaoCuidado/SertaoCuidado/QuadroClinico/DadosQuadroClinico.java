@@ -1,15 +1,15 @@
 package serdaoCuidado.SertaoCuidado.QuadroClinico;
 
 public record DadosQuadroClinico(
-        boolean PlanoDeSaude,
+        boolean plano_de_saude,
         boolean hipertenso,
         boolean insulino,
         boolean cds,
         boolean ca,
         boolean amg,
         boolean diabetico,
-        boolean teveCovid,
-        boolean complicacoesCovid,
+        boolean teve_covid,
+        boolean complicacoes_covid,
         boolean pa
         ) {
 }
