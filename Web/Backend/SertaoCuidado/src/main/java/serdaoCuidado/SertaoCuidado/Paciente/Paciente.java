@@ -20,7 +20,7 @@ public class Paciente {
     private Long id;
 
     private String nome;
-    private int cpf;
+    private String cpf;
     private String sexo;
     private String contato;
 

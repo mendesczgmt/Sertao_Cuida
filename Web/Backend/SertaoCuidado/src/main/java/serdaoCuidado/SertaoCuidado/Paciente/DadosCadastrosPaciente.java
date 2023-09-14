@@ -5,7 +5,7 @@ import serdaoCuidado.SertaoCuidado.QuadroClinico.DadosQuadroClinico;
 
 public record DadosCadastrosPaciente(
         String nome,
-        int cpf,
+        String cpf,
         String sexo,
         String contato,
         DadosEndereco endereco,
