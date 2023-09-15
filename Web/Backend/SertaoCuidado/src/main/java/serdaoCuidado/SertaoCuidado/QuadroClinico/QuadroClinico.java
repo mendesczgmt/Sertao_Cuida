@@ -34,4 +34,9 @@ public class QuadroClinico {
         this.pa = dados.pa();
     }
 
+    public void atualizarInformacoes(DadosQuadroClinico dados) {
+        if (dados.plano_de_saude() != null) {
+            this.plano_de_saude = dados.plano_de_saude();
+        }
+    }
 }

@@ -7,10 +7,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.*;
 
-import serdaoCuidado.SertaoCuidado.Paciente.DadosCadastrosPaciente;
-import serdaoCuidado.SertaoCuidado.Paciente.DadosListagemPaciente;
-import serdaoCuidado.SertaoCuidado.Paciente.Paciente;
-import serdaoCuidado.SertaoCuidado.Paciente.PacienteRepository;
+import serdaoCuidado.SertaoCuidado.Paciente.*;
 
 @RestController
 @RequestMapping("paciente")
@@ -27,5 +24,12 @@ public class PacienteController {
     @GetMapping
     public Page<DadosListagemPaciente> listar(Pageable paginacao) {
         return repository.findAll(paginacao).map(DadosListagemPaciente::new);
+    }
+
+    @PutMapping
+    @Transactional
+    public void atualizarDados(@RequestBody @Valid DadosAtualizacaoPaciente dados) {
+        var paciente = repository.getReferenceById(dados.id());
+        paciente.atualizarInformacoes(dados);
     }
 }
