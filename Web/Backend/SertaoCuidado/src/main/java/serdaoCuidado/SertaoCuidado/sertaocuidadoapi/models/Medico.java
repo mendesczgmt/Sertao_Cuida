@@ -11,23 +11,30 @@ import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+import serdaoCuidado.SertaoCuidado.sertaocuidadoapi.dtos.MedicoDto;
 
 @Table(name = "medicos")
-@Entity(name = "medico")
+@Entity(name = "Medico")
 @AllArgsConstructor
 @NoArgsConstructor
 @Getter
 @EqualsAndHashCode(of = "id")
 public class Medico implements Serializable{
 
+    
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String nome;
-    private String crm;
     private String cpf;
+    private String crm;
     private String email;
     
-
+    public Medico(MedicoDto medico) {
+        this.nome = medico.nome();
+        this.cpf = medico.cpf();
+        this.crm = medico.crm();
+        this.email = medico.email();
+    }
 
 
 }
