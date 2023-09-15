@@ -35,8 +35,18 @@ public class QuadroClinico {
     }
 
     public void atualizarInformacoes(DadosQuadroClinico dados) {
-        if (dados.plano_de_saude() != null) {
-            this.plano_de_saude = dados.plano_de_saude();
-        }
+
+        this.plano_de_saude = dados.plano_de_saude();
+        this.hipertenso = dados.hipertenso();
+        this.insulino = dados.insulino();
+        this.cds = dados.cds();
+        this.ca = dados.ca();
+        this.amg = dados.amg();
+        this.diabetico = dados.diabetico();
+        this.teve_covid = dados.teve_covid();
+        this.complicacoes_covid = dados.complicacoes_covid();
+        this.pa = dados.pa();
+
+
     }
 }
