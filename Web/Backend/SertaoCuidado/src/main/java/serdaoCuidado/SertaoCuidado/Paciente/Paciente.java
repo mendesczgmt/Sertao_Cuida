@@ -134,6 +134,5 @@ public class Paciente {
             this.quadroClinico.atualizarInformacoes(dados.quadroClinico());
         }
 
-
     }
 }
