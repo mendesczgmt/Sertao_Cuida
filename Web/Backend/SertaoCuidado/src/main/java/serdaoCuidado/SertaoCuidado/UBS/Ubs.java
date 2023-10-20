@@ -1,9 +1,15 @@
+package serdaoCuidado.SertaoCuidado.UBS;
+
+import java.util.List;
+
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-
+import serdaoCuidado.SertaoCuidado.Endereco.Endereco;
+import serdaoCuidado.SertaoCuidado.Medico.models.Medico;
+import serdaoCuidado.SertaoCuidado.Paciente.Paciente;
 
 @Table(name = "ubs")
 @Entity(name = "Ubs")
@@ -30,19 +36,10 @@ public class Ubs{
         joinColumns = @JoinColumn(name = "ubs_id"),
         inverseJoinColumns = @JoinColumn(name = "paciente_id")
     )
-    private Paciente Paciente;
+    private List<Paciente> pacientes;
     private Endereco endereco;
 
 
-    public Medico(DadosCadastroMedico dados) {
-        this.nome = dados.nome();
-        this.email = dados.email();
-        this.crm = dados.crm();
-        this.especialidade = dados.especialidade();
-        this.agenda = new Agenda(dados.agenda());
-
-
-
-    }
+    
 
 }

@@ -1,5 +1,7 @@
 package serdaoCuidado.SertaoCuidado.Paciente;
 
+import java.util.List;
+
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
@@ -9,6 +11,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import serdaoCuidado.SertaoCuidado.Endereco.Endereco;
 import serdaoCuidado.SertaoCuidado.QuadroClinico.QuadroClinico;
+import serdaoCuidado.SertaoCuidado.UBS.Ubs;
 
 @Table(name = "paciente")
 @Entity(name = "Pacientes")
@@ -39,6 +42,8 @@ public class Paciente {
     private QuadroClinico quadroClinico;
 
     private boolean ativo;
+    @ManyToMany(mappedBy = "medicos")
+    private List<Ubs> ubsList;
 
     public Long getId() {
         return id;

@@ -1,4 +1,4 @@
-package serdaoCuidado.SertaoCuidado.sertaocuidadoapi.services;
+package serdaoCuidado.SertaoCuidado.Medico.services;
 
 import java.lang.reflect.Field;
 import java.math.BigDecimal;
@@ -10,9 +10,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.ReflectionUtils;
 
-
-import serdaoCuidado.SertaoCuidado.sertaocuidadoapi.models.Medico;
-import serdaoCuidado.SertaoCuidado.sertaocuidadoapi.repositories.MedicoRepository;
+import serdaoCuidado.SertaoCuidado.Medico.models.Medico;
+import serdaoCuidado.SertaoCuidado.Medico.repositories.MedicoRepository;
 
 @Service
 public class MedicoService {

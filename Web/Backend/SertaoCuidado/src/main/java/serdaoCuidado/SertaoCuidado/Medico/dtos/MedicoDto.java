@@ -1,9 +1,9 @@
-package serdaoCuidado.SertaoCuidado.sertaocuidadoapi.dtos;
+package serdaoCuidado.SertaoCuidado.Medico.dtos;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;
-import serdaoCuidado.SertaoCuidado.sertaocuidadoapi.models.Medico;
+import serdaoCuidado.SertaoCuidado.Medico.models.Medico;
 
 public record MedicoDto(
     @NotBlank
