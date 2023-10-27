@@ -29,7 +29,8 @@ public class Paciente {
     private String sexo;
     private String contato;
 
-    @Embedded
+    @OneToOne
+    @JoinColumn(name = "endereco_id", unique = true)
     private Endereco endereco;
     private double peso;
     private double altura;
@@ -38,60 +39,13 @@ public class Paciente {
     @Enumerated(EnumType.STRING)
     private Raca raca;
 
-    @Embedded
+    @OneToOne
+    @JoinColumn(name = "quadroclinico_id", unique = true)
     private QuadroClinico quadroClinico;
 
     private boolean ativo;
     @ManyToMany(mappedBy = "medicos")
     private List<Ubs> ubsList;
-
-    public Long getId() {
-        return id;
-    }
-
-    public String getNome() {
-        return nome;
-    }
-
-    public String getCpf() {
-        return cpf;
-    }
-
-    public String getSexo() {
-        return sexo;
-    }
-
-    public String getContato() {
-        return contato;
-    }
-
-    public Endereco getEndereco() {
-        return endereco;
-    }
-
-    public double getPeso() {
-        return peso;
-    }
-
-    public double getAltura() {
-        return altura;
-    }
-
-    public double getImc() {
-        return imc;
-    }
-
-    public Raca getRaca() {
-        return raca;
-    }
-
-    public QuadroClinico getQuadroClinico() {
-        return quadroClinico;
-    }
-
-    public boolean isAtivo() {
-        return ativo;
-    }
 
     public Paciente(DadosCadastrosPaciente dados) {
         this.nome = dados.nome();

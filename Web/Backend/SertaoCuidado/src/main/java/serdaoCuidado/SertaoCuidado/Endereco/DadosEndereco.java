@@ -1,4 +1,13 @@
 package serdaoCuidado.SertaoCuidado.Endereco;
 
-public record DadosEndereco(String cidade, String bairro, String logradouro, int numero) {
+import jakarta.validation.constraints.NotBlank;
+
+public record DadosEndereco(
+    @NotBlank
+    String cidade, 
+    @NotBlank
+    String bairro,
+    @NotBlank 
+    String logradouro, 
+    int numero) {
 }

@@ -1,28 +1,27 @@
-package serdaoCuidado.SertaoCuidado.UBS;
+package serdaoCuidado.SertaoCuidado.EntidadesManyToMany;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
-import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-import serdaoCuidado.SertaoCuidado.Medico.models.Medico;
+import serdaoCuidado.SertaoCuidado.Paciente.Paciente;
+import serdaoCuidado.SertaoCuidado.UBS.Ubs;
 
 @Entity
-@Table(name = "medico_ubs")
-public class MedicoUbs {
-
+@Table(name = "ubs_paciente")
+public class PacienteUbs {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     @ManyToOne
-    @JoinColumn(name = "medico_id")
-    private Medico medico;
-
-    @ManyToOne
     @JoinColumn(name = "ubs_id")
     private Ubs ubs;
 
+    @ManyToOne
+    @JoinColumn(name = "paciente_id")
+    private Paciente paciente;
 }
