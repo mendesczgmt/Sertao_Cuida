@@ -5,11 +5,20 @@ import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Pattern;
+import serdaoCuidado.SertaoCuidado.Medico.Medico;
+
+import java.util.List;
 
 
 public record DadosCadastroUbs(
+
         @NotBlank
-        String nome
+        Long id,
+        @NotBlank
+        String nome,
+        @Valid
+        List<Medico> medicos
+
         ) {
 
         

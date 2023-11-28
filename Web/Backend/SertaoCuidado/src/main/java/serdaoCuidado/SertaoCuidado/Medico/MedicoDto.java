@@ -1,9 +1,12 @@
-package serdaoCuidado.SertaoCuidado.sertaocuidadoapi.dtos;
+package serdaoCuidado.SertaoCuidado.Medico;
 
+import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;
-import serdaoCuidado.SertaoCuidado.sertaocuidadoapi.models.Medico;
+import serdaoCuidado.SertaoCuidado.UBS.Ubs;
+
+import java.util.List;
 
 public record MedicoDto(
     @NotBlank
@@ -12,14 +15,16 @@ public record MedicoDto(
     String nome, 
     @NotBlank
     @Pattern(regexp = "\\d{4,6}")
-    String crm, 
+    String crm,
     @NotBlank
     String cpf,
     @NotBlank
     @Email
-    String email) {
+    String email,
+    @Valid
+    List<Ubs> ubs) {
     
         public MedicoDto(Medico medico){
-            this(medico.getId(), medico.getNome(), medico.getEmail(), medico.getCpf(), medico.getCrm());
+            this(medico.getId(), medico.getCrm(), medico.getNome(), medico.getEmail(), medico.getCpf(), medico.getUbs());
         }
 }

@@ -1,4 +1,4 @@
-package serdaoCuidado.SertaoCuidado.sertaocuidadoapi.controllers;
+package serdaoCuidado.SertaoCuidado.Medico;
 
 import java.util.List;
 import java.util.Map;
@@ -22,11 +22,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import jakarta.validation.Valid;
-import serdaoCuidado.SertaoCuidado.sertaocuidadoapi.dtos.MedicoDto;
-
-import serdaoCuidado.SertaoCuidado.sertaocuidadoapi.models.Medico;
-import serdaoCuidado.SertaoCuidado.sertaocuidadoapi.repositories.MedicoRepository;
-import serdaoCuidado.SertaoCuidado.sertaocuidadoapi.services.MedicoService;
 
 @RestController
 @RequestMapping("medicos")

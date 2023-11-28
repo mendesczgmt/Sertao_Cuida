@@ -1,17 +1,15 @@
-package serdaoCuidado.SertaoCuidado.sertaocuidadoapi.models;
+package serdaoCuidado.SertaoCuidado.Medico;
 
 import java.io.Serializable;
+import java.util.List;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import serdaoCuidado.SertaoCuidado.sertaocuidadoapi.dtos.MedicoDto;
+import serdaoCuidado.SertaoCuidado.Medico.MedicoDto;
+import serdaoCuidado.SertaoCuidado.UBS.Ubs;
 
 @Table(name = "medicos")
 @Entity(name = "Medico")
@@ -28,12 +26,16 @@ public class Medico implements Serializable{
     private String cpf;
     private String crm;
     private String email;
+
+    @ManyToMany(mappedBy = "medicos")
+    private List<Ubs> ubs;
     
     public Medico(MedicoDto medico) {
         this.nome = medico.nome();
         this.cpf = medico.cpf();
         this.crm = medico.crm();
         this.email = medico.email();
+        this.ubs = medico.ubs();
     }
 
 
