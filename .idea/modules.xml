@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Web/Backend/SertaoCuidado/SertaoCuidado.iml" filepath="$PROJECT_DIR$/Web/Backend/SertaoCuidado/SertaoCuidado.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Sertao_Cuidado.iml" filepath="$PROJECT_DIR$/.idea/Sertao_Cuidado.iml" />
     </modules>
   </component>
