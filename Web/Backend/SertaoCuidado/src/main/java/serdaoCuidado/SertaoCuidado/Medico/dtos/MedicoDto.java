@@ -6,9 +6,7 @@ import jakarta.validation.constraints.Pattern;
 import serdaoCuidado.SertaoCuidado.Medico.models.Medico;
 
 public record MedicoDto(
-    @NotBlank
-    Long id,
-    @NotBlank
+        @NotBlank
     String nome, 
     @NotBlank
     @Pattern(regexp = "\\d{4,6}")
@@ -20,6 +18,6 @@ public record MedicoDto(
     String email) {
     
         public MedicoDto(Medico medico){
-            this(medico.getId(), medico.getNome(), medico.getEmail(), medico.getCpf(), medico.getCrm());
+            this(medico.getNome(), medico.getEmail(), medico.getCpf(), medico.getCrm());
         }
 }
