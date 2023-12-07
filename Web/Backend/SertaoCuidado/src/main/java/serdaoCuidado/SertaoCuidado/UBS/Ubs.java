@@ -6,6 +6,7 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import serdaoCuidado.SertaoCuidado.Medico.Medico;
+import serdaoCuidado.SertaoCuidado.Paciente.Paciente;
 
 import java.util.List;
 
@@ -27,10 +28,17 @@ public class Ubs{
             joinColumns = @JoinColumn(name = "ubs_id"),
             inverseJoinColumns = @JoinColumn(name = "medico_id"))
     private List<Medico> medicos;
+    @ManyToMany
+    @JoinTable(
+            name = "ubs_pacientes",
+            joinColumns = @JoinColumn(name = "ubs_id"),
+            inverseJoinColumns = @JoinColumn(name = "paciente_id"))
+    private List<Paciente> pacientes;
 
     public void Ubs(DadosCadastroUbs ubs){
         this.nome = ubs.nome();
         this.medicos = ubs.medicos();
+        this.pacientes = ubs.pacientes();
     }
 }
 

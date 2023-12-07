@@ -12,6 +12,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import serdaoCuidado.SertaoCuidado.Endereco.Endereco;
 import serdaoCuidado.SertaoCuidado.QuadroClinico.QuadroClinico;
+import serdaoCuidado.SertaoCuidado.UBS.Ubs;
 
 @Table(name = "pacientes")
 @Entity(name = "Paciente")
@@ -38,6 +39,11 @@ public class Paciente {
     private Raca raca;
     @OneToMany(mappedBy = "paciente", cascade = CascadeType.ALL, orphanRemoval = true)
     private List<QuadroClinico> quadrosClinicos = new ArrayList<>();
+    @ManyToMany(mappedBy = "pacientes")
+    private List<Ubs> ubs;
+
+    private boolean paciete_de_risco;
+    private Risco nivel_de_risco;
 
     private boolean ativo;
 
@@ -52,6 +58,9 @@ public class Paciente {
         this.altura = dados.altura();
         this.imc = dados.imc();
         this.raca = dados.raca();
+        this.ubs = dados.ubs();
+        this.paciete_de_risco = dados.paciente_de_risco();
+        this.nivel_de_risco = dados.nivel_de_risco();
         this.ativo = true;
     }
 }

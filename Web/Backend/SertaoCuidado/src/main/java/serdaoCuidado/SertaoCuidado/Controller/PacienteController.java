@@ -4,7 +4,6 @@ import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
-;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.*;
 
@@ -23,7 +22,7 @@ public class PacienteController {
 
     @PostMapping("cadastrar")
     @Transactional
-    public void cadastrar(@RequestBody @Valid DadosCadastrosPaciente dados) {
+    public void cadastrar(@RequestBody DadosCadastrosPaciente dados) {
         Paciente paciente = new Paciente(dados);
         QuadroClinico quadroClinico = new QuadroClinico(dados.quadroClinico());
         quadroClinico.setPaciente(paciente);
@@ -37,4 +36,6 @@ public class PacienteController {
     public Page<DadosListagemPaciente> listar(Pageable paginacao) {
         return repository.findAll(paginacao).map(DadosListagemPaciente::new);
     }
+
+
 }

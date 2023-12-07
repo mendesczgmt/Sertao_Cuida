@@ -11,6 +11,7 @@ import serdaoCuidado.SertaoCuidado.Paciente.PacienteRepository;
 import serdaoCuidado.SertaoCuidado.QuadroClinico.DadosQuadroClinico;
 import serdaoCuidado.SertaoCuidado.QuadroClinico.QuadroClinico;
 import serdaoCuidado.SertaoCuidado.QuadroClinico.QuadroClinicoRepository;
+import serdaoCuidado.SertaoCuidado.QuadroClinico.QuadroClinicoService;
 
 import java.util.Optional;
 
@@ -22,6 +23,7 @@ public class QuadroClinicoController {
     private QuadroClinicoRepository qdrepository;
     @Autowired
     private PacienteRepository repository;
+    private QuadroClinicoService qdservice;
 
     @PostMapping()
     @Transactional
@@ -56,6 +58,9 @@ public class QuadroClinicoController {
 
         QuadroClinico quadroClinico = quadroClinicoOptional.get();
 
+        qdservice.atualizarDados(quadroClinico, dados);
+        repository.save(paciente); 
+        return ResponseEntity.ok("Atualização bem-sucedida");
+        
     }
-
 }

@@ -5,6 +5,9 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import serdaoCuidado.SertaoCuidado.Endereco.DadosEndereco;
 import serdaoCuidado.SertaoCuidado.QuadroClinico.DadosQuadroClinico;
+import serdaoCuidado.SertaoCuidado.UBS.Ubs;
+
+import java.util.List;
 
 public record DadosCadastrosPaciente(
 
@@ -28,7 +31,14 @@ public record DadosCadastrosPaciente(
         @NotNull
         @Valid
         DadosQuadroClinico quadroClinico,
-        boolean ativo
+        @Valid
+        List<Ubs> ubs,
+        boolean ativo,
+
+        boolean paciente_de_risco,
+        Risco nivel_de_risco
+
+
         ) {
 
 }

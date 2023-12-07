@@ -1,11 +1,15 @@
 package serdaoCuidado.SertaoCuidado.QuadroClinico;
 
 import jakarta.persistence.*;
+import jakarta.validation.Valid;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+import org.springframework.data.util.ReflectionUtils;
 import serdaoCuidado.SertaoCuidado.Paciente.Paciente;
+
+import java.lang.reflect.Field;
 
 import java.time.LocalDate;
 
@@ -62,4 +66,6 @@ public class QuadroClinico {
     public void setPaciente(Paciente paciente) {
         this.paciente = paciente;
     }
+
+
 }

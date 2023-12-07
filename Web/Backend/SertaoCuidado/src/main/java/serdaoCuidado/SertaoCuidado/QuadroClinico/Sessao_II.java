@@ -20,7 +20,7 @@ public class Sessao_II {
     private boolean itb;
     //Espessura mediointimal (EMI) da carótida
     private boolean emi_da_carotida;
-    private int cont2;
+    private int cont2 = 0;
 
 
     public Sessao_II(DadosSessaoII dados) {

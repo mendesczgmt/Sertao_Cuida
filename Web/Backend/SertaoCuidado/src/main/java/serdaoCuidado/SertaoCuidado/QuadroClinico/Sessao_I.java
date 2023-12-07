@@ -18,7 +18,7 @@ public class Sessao_I {
     private boolean obesidade;
     private boolean dislipidemia;
 
-    private int cont1;
+    private int cont1 = 0;
 
     public Sessao_I(DadosSessaoI dados) {
         this.idade_de_risco = dados.idade_de_risco();

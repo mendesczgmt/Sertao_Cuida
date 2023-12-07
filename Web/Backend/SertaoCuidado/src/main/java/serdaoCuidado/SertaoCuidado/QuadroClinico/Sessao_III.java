@@ -26,7 +26,7 @@ public class Sessao_III {
     private boolean drc_estagio4;
     private boolean retinopatia_avançada;
 
-    private int cont3;
+    private int cont3 = 0;
 
 
     public Sessao_III(DadosSessaoIII dados) {
